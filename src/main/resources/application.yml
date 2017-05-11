@@ -1,0 +1,4 @@
+spring:
+  profiles:
+    active: test
+#选择由-test结尾的配置文件
