@@ -1,0 +1,3 @@
+# SpringBootDemo
+包括dubbo消费者，AOP切面，自定义配置文件，assembly打包部署
+未解决问题：resources下对不同环境配置文件进行文件夹分类，dubbo依然采用XML进行reference service配置
